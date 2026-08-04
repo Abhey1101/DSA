@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Abhey1101/DSA/tree/master/0189-rotate-array) |
+| [3731-find-missing-elements](https://github.com/Abhey1101/DSA/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Abhey1101/DSA/tree/master/0189-rotate-array) |
+## Hash Table
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/Abhey1101/DSA/tree/master/3731-find-missing-elements) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/Abhey1101/DSA/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
