@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Abhey1101/DSA/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/Abhey1101/DSA/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Abhey1101/DSA/tree/master/0739-daily-temperatures) |
 | [3731-find-missing-elements](https://github.com/Abhey1101/DSA/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -28,8 +29,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Abhey1101/DSA/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Abhey1101/DSA/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Abhey1101/DSA/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Abhey1101/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
