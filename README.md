@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Abhey1101/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Abhey1101/DSA/tree/master/0739-daily-temperatures) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abhey1101/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Abhey1101/DSA/tree/master/0258-add-digits) |
+## String
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abhey1101/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
