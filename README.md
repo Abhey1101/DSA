@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Abhey1101/DSA/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Abhey1101/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Abhey1101/DSA/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abhey1101/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abhey1101/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Abhey1101/DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
