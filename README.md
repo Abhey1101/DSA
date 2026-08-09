@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0551-student-attendance-record-i](https://github.com/Abhey1101/DSA/tree/master/0551-student-attendance-record-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abhey1101/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
