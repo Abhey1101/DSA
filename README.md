@@ -50,9 +50,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0551-student-attendance-record-i](https://github.com/Abhey1101/DSA/tree/master/0551-student-attendance-record-i) |
+| [0796-rotate-string](https://github.com/Abhey1101/DSA/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abhey1101/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Abhey1101/DSA/tree/master/0155-min-stack) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Abhey1101/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
