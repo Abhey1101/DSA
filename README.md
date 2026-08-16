@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Abhey1101/DSA/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/Abhey1101/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Abhey1101/DSA/tree/master/0739-daily-temperatures) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Abhey1101/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3731-find-missing-elements](https://github.com/Abhey1101/DSA/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Abhey1101/DSA/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/Abhey1101/DSA/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abhey1101/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Abhey1101/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Design
 |  |
 | ------- |
