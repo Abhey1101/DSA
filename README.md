@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhey1101/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Abhey1101/DSA/tree/master/0189-rotate-array) |
+| [0455-assign-cookies](https://github.com/Abhey1101/DSA/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Abhey1101/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Abhey1101/DSA/tree/master/0739-daily-temperatures) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Abhey1101/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Abhey1101/DSA/tree/master/0189-rotate-array) |
+| [0455-assign-cookies](https://github.com/Abhey1101/DSA/tree/master/0455-assign-cookies) |
 | [0917-reverse-only-letters](https://github.com/Abhey1101/DSA/tree/master/0917-reverse-only-letters) |
 ## Hash Table
 |  |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Abhey1101/DSA/tree/master/0455-assign-cookies) |
 | [3731-find-missing-elements](https://github.com/Abhey1101/DSA/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
@@ -68,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Abhey1101/DSA/tree/master/0796-rotate-string) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Abhey1101/DSA/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Abhey1101/DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
