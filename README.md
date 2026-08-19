@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Abhey1101/DSA/tree/master/0045-jump-game-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhey1101/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Abhey1101/DSA/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/Abhey1101/DSA/tree/master/0455-assign-cookies) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Abhey1101/DSA/tree/master/0045-jump-game-ii) |
 | [0455-assign-cookies](https://github.com/Abhey1101/DSA/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Abhey1101/DSA/tree/master/0045-jump-game-ii) |
 | [0877-stone-game](https://github.com/Abhey1101/DSA/tree/master/0877-stone-game) |
 ## Minimax
 |  |
