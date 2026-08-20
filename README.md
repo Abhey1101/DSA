@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Abhey1101/DSA/tree/master/0055-jump-game) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhey1101/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Abhey1101/DSA/tree/master/0189-rotate-array) |
+| [0435-non-overlapping-intervals](https://github.com/Abhey1101/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Abhey1101/DSA/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Abhey1101/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Abhey1101/DSA/tree/master/0739-daily-temperatures) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Abhey1101/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Abhey1101/DSA/tree/master/0455-assign-cookies) |
 | [3731-find-missing-elements](https://github.com/Abhey1101/DSA/tree/master/3731-find-missing-elements) |
 ## Stack
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Abhey1101/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Abhey1101/DSA/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/Abhey1101/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Abhey1101/DSA/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Abhey1101/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Abhey1101/DSA/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/Abhey1101/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/Abhey1101/DSA/tree/master/0877-stone-game) |
 ## Minimax
 |  |
