@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhey1101/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Abhey1101/DSA/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Abhey1101/DSA/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/Abhey1101/DSA/tree/master/0326-power-of-three) |
 | [0877-stone-game](https://github.com/Abhey1101/DSA/tree/master/0877-stone-game) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Abhey1101/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 ## Two Pointers
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/Abhey1101/DSA/tree/master/1094-car-pooling) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Abhey1101/DSA/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
