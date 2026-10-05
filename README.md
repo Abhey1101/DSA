@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/Abhey1101/DSA/tree/master/0131-palindrome-partitioning) |
 | [0551-student-attendance-record-i](https://github.com/Abhey1101/DSA/tree/master/0551-student-attendance-record-i) |
 | [0796-rotate-string](https://github.com/Abhey1101/DSA/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/Abhey1101/DSA/tree/master/0917-reverse-only-letters) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Abhey1101/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Abhey1101/DSA/tree/master/0055-jump-game) |
+| [0131-palindrome-partitioning](https://github.com/Abhey1101/DSA/tree/master/0131-palindrome-partitioning) |
 | [0435-non-overlapping-intervals](https://github.com/Abhey1101/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/Abhey1101/DSA/tree/master/0877-stone-game) |
 ## Minimax
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Abhey1101/DSA/tree/master/0326-power-of-three) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/Abhey1101/DSA/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
