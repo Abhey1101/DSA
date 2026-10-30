@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Abhey1101/DSA/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhey1101/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Abhey1101/DSA/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Abhey1101/DSA/tree/master/0496-next-greater-element-i) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Abhey1101/DSA/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Abhey1101/DSA/tree/master/0131-palindrome-partitioning) |
 | [0551-student-attendance-record-i](https://github.com/Abhey1101/DSA/tree/master/0551-student-attendance-record-i) |
 | [0796-rotate-string](https://github.com/Abhey1101/DSA/tree/master/0796-rotate-string) |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Abhey1101/DSA/tree/master/0131-palindrome-partitioning) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Abhey1101/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
