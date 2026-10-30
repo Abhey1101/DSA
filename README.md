@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhey1101/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Abhey1101/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Abhey1101/DSA/tree/master/0198-house-robber) |
+| [0283-move-zeroes](https://github.com/Abhey1101/DSA/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/Abhey1101/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Abhey1101/DSA/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Abhey1101/DSA/tree/master/0496-next-greater-element-i) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Abhey1101/DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Abhey1101/DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Abhey1101/DSA/tree/master/0455-assign-cookies) |
 | [0917-reverse-only-letters](https://github.com/Abhey1101/DSA/tree/master/0917-reverse-only-letters) |
 ## Hash Table
