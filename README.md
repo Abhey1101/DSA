@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Abhey1101/DSA/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/Abhey1101/DSA/tree/master/0877-stone-game) |
 | [1094-car-pooling](https://github.com/Abhey1101/DSA/tree/master/1094-car-pooling) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Abhey1101/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Abhey1101/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3731-find-missing-elements](https://github.com/Abhey1101/DSA/tree/master/3731-find-missing-elements) |
 ## Math
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Abhey1101/DSA/tree/master/0238-product-of-array-except-self) |
 | [1094-car-pooling](https://github.com/Abhey1101/DSA/tree/master/1094-car-pooling) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Abhey1101/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Recursion
 |  |
 | ------- |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhey1101/DSA/tree/master/0020-valid-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Abhey1101/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
